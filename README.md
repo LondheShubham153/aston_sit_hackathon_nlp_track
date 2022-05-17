@@ -45,6 +45,7 @@ This app by Data Wizards will allow user to analyse their text/tweet if it has a
 ## About The Project
 
 ![testing-screenshot](images/test.png)
+![api-testing-screenshot](images/positive.png)
 
 
 ### Built With
