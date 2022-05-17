@@ -11,7 +11,8 @@
   <h3 align="center">Disaster Sentiment Analysis</h3>
 
   <p align="center">
-    An awesome task which allowed me to understand async functions and aiohttp!
+    We all tweet our thoughts without thinking whether they carry positive or negative sentiment.
+This app by Data Wizards will allow user to analyse their text/tweet if it has a Positive or negative sentiments involved in terms of Disasters around the world.
     <br />
     <br />
     <a href="https://disasterapp.herokuapp.com/movies">View Demo</a>
